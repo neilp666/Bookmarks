@@ -1,0 +1,9 @@
+== README
+
+Bookmarks App - A simple web application to manage and share bookmarks 
+
+
+* Ruby version = 2.0 
+
+* Rails 4.0.4
+
