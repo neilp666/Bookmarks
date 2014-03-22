@@ -28,6 +28,8 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 
 gem 'devise'
+gem 'zurb-foundation', '~> 4.3.2'
+gem 'simple_form', '~> 3.0.1'
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.

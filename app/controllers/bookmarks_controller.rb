@@ -4,7 +4,7 @@ class BookmarksController < ApplicationController
 
   # GET /bookmarks
   def index
-    @bookmarks = @bookmarks = current_user.bookmarks.order('created_at desc')
+    @bookmarks = current_user.bookmarks.order('created_at desc')
   end
 
   # GET /bookmarks/1
